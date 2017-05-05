@@ -12,4 +12,4 @@ var pola=new MiembroSquad("Paola", "Urra",23,"Dormir");
 var kathy=new MiembroSquad("Katherine", "Sandoval",24,"Leer");
 var pauli=new MiembroSquad("Paulina", "Gonzalez",25,"Leer");
 var sou=new MiembroSquad("Sou-Elene", "Cruces",33,"Dormir");
-var mina=new MiembroSquad("Romina", "Torres",31,"Cantar");
+var mina=new MiembroSquad("Romina", "Torres",30,"Cantar");
